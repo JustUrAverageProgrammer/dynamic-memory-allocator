@@ -1,6 +1,6 @@
 # Dynamic Memory Allocator
 
-##<ins>How To Use</ins>
+## <ins>How To Use</ins>
 
 Copyright © 2025 Samuel Winkens
 
